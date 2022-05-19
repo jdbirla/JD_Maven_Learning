@@ -91,6 +91,27 @@ simplilearn: https://www.youtube.com/watch?v=p0LPfK_oNCM&t=571s
 ## What You Will Learn during this Step 06:
 - Creating a Simple Project - Part 1
 
+![Browser](Images/Screenshot_33.png)
+
+---
+## What You Will Learn during this Step 07:
+- Creating a Simple Project - Part 2
+
+---
+## What You Will Learn during this Step 08:
+- Creating a Web Project
+
+---
+## What You Will Learn during this Step 09:
+- Maven Repositories Overview
+
+![Browser](Images/Screenshot_34.png)
+
+---
+## What You Will Learn during this Step 11:
+- Local Repository
+
+![Browser](Images/Screenshot_35.png)
 
 
 
