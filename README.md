@@ -68,6 +68,12 @@ simplilearn: https://www.youtube.com/watch?v=p0LPfK_oNCM&t=571s
 ## What You Will Learn during this Step 04:
 - Key Concept part 2 Demo Find Dependencies
 
+![Browser](Images/Screenshot_25.png)
+
+## What You Will Learn during this Step 05:
+- Key Concepts Part 3
+
+
 
 
 
