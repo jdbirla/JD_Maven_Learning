@@ -28,8 +28,48 @@ simplilearn: https://www.youtube.com/watch?v=p0LPfK_oNCM&t=571s
 
 ![Browser](Images/Screenshot_10.png)
 
+---
+
 ## What You Will Learn during this Step 02:
 - Maven overview part 2
+![Browser](Images/Screenshot_11.png)
+
+![Browser](Images/Screenshot_12.png)
+
+![Browser](Images/Screenshot_13.png)
+
+![Browser](Images/Screenshot_14.png)
+
+![Browser](Images/Screenshot_15.png)
+
+---
+## What You Will Learn during this Step 03:
+- Key Concept part 1
+
+![Browser](Images/Screenshot_16.png)
+
+![Browser](Images/Screenshot_17.png)
+
+![Browser](Images/Screenshot_18.png)
+
+![Browser](Images/Screenshot_19.png)
+
+![Browser](Images/Screenshot_20.png)
+
+![Browser](Images/Screenshot_21.png)
+
+![Browser](Images/Screenshot_22.png)
+
+![Browser](Images/Screenshot_23.png)
+
+![Browser](Images/Screenshot_24.png)
+
+---
+## What You Will Learn during this Step 04:
+- Key Concept part 2 Demo Find Dependencies
+
+
+
 
 
 
