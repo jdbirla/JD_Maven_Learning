@@ -73,6 +73,24 @@ simplilearn: https://www.youtube.com/watch?v=p0LPfK_oNCM&t=571s
 ## What You Will Learn during this Step 05:
 - Key Concepts Part 3
 
+![Browser](Images/Screenshot_26.png)
+
+![Browser](Images/Screenshot_27.png)
+
+![Browser](Images/Screenshot_28.png)
+
+![Browser](Images/Screenshot_29.png)
+
+![Browser](Images/Screenshot_30.png)
+
+![Browser](Images/Screenshot_31.png)
+
+![Browser](Images/Screenshot_32.png)
+
+---
+## What You Will Learn during this Step 06:
+- Creating a Simple Project - Part 1
+
 
 
 
