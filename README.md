@@ -108,14 +108,78 @@ simplilearn: https://www.youtube.com/watch?v=p0LPfK_oNCM&t=571s
 ![Browser](Images/Screenshot_34.png)
 
 ---
-## What You Will Learn during this Step 11:
+## What You Will Learn during this Step 10:
 - Local Repository
+
+
+---
+## What You Will Learn during this Step 11:
+- Maven Central Repository
+### Maven central repository
+https://repo.maven.apache.org/maven2/
 
 ![Browser](Images/Screenshot_35.png)
 
+![Browser](Images/Screenshot_36.png)
 
+---
+## What You Will Learn during this Step 12:
+- Additional Repositories Overview
 
+![Browser](Images/Screenshot_37png)
 
+![Browser](Images/Screenshot_38.png)
 
+![Browser](Images/Screenshot_39.png)
 
+![Browser](Images/Screenshot_40.png)
+
+![Browser](Images/Screenshot_41.png)
+
+![Browser](Images/Screenshot_42.png)
+
+---
+## What You Will Learn during this Step 13:
+- Additional Repositories Demo
+
+```xml
+<dependencies>
+		<!-- https://mvnrepository.com/artifact/com.atlassian.mail/atlassian-mail -->
+		<dependency>
+			<groupId>com.atlassian.mail</groupId>
+			<artifactId>atlassian-mail</artifactId>
+			<version>5.0.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>3.8.1</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+	
+	<repositories>
+	 	  
+	 	   <repository>
+	 	      <id>atlassian</id>
+	 	      <name>this artifact is located at AtlassianPkgs repository</name>
+	 	      <url>https://packages.atlassian.com/maven-public</url>
+	 	   </repository>
+	
+	</repositories>
+```
+---
+## What You Will Learn during this Step 14:
+- Private Repositories
+
+![Browser](Images/Screenshot_43.png)
+
+![Browser](Images/Screenshot_44.png)
+
+![Browser](Images/Screenshot_45.png)
+
+![Browser](Images/Screenshot_46.png)
+
+---
 
