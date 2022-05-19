@@ -126,7 +126,7 @@ https://repo.maven.apache.org/maven2/
 ## What You Will Learn during this Step 12:
 - Additional Repositories Overview
 
-![Browser](Images/Screenshot_37png)
+![Browser](Images/Screenshot_37.png)
 
 ![Browser](Images/Screenshot_38.png)
 
@@ -183,3 +183,4 @@ https://repo.maven.apache.org/maven2/
 
 ---
 
+## simplilearn
