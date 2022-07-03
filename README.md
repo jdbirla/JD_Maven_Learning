@@ -184,5 +184,14 @@ https://repo.maven.apache.org/maven2/
 ---
 
 ## simplilearn
-
-![Browser](Images/Screenshot_47.png)
+![image](https://user-images.githubusercontent.com/69948118/177026075-6d2edcc0-afed-48a5-9a5e-4fbd87cdab9c.png)
+![image](https://user-images.githubusercontent.com/69948118/177026093-bc0514f8-9188-477b-864c-dfb109d446de.png)
+![image](https://user-images.githubusercontent.com/69948118/177026107-c4fd4782-9b61-4e11-80f4-a24baea2f69a.png)
+![image](https://user-images.githubusercontent.com/69948118/177026135-45abee70-fef4-453c-a7b5-cd31ab181881.png)
+![image](https://user-images.githubusercontent.com/69948118/177026180-33c4a750-aa05-461a-be94-a82aae8383dc.png)
+![image](https://user-images.githubusercontent.com/69948118/177026219-e8622ede-a619-4df7-b2f6-0711575eada0.png)
+![image](https://user-images.githubusercontent.com/69948118/177026229-09c5d200-ce3e-423f-8248-78f78c76ba65.png)
+![image](https://user-images.githubusercontent.com/69948118/177026253-447c7663-d3ea-421c-ab81-ada58eb79137.png)
+![image](https://user-images.githubusercontent.com/69948118/177026275-f2bfbf18-a52f-4532-b911-4f1be8f232db.png)
+![image](https://user-images.githubusercontent.com/69948118/177026300-10dbb927-1666-4136-ba98-7b9d824e1fd7.png)
+![image](https://user-images.githubusercontent.com/69948118/177026322-bad7b493-1724-4662-bec6-6765ebfcc6c2.png)
